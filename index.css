@@ -1,0 +1,149 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.hero__section {
+  background-size: cover;
+  background-position: center;
+
+  color: white;
+
+}
+
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 65px;
+  padding: 16px 48px;
+}
+
+.navbar a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  background-color: black;
+  opacity: 0.6;
+}
+
+.navbar__menu_container {
+  display: flex;
+  gap: 18px;
+}
+
+header {
+  background-color: black;
+  opacity: 0.6;
+
+}
+
+.top {
+  margin-top: 10px;
+  display: block;
+  font-size: 50px;
+  text-align: center;
+  text-shadow: 2px 2px 5px red;
+}
+
+.one {
+  text-align: center;
+
+  font-size: 40px;
+  text-shadow: 2px 2px black;
+}
+
+.image {
+  height: 300px;
+  width: 450px;
+  background-color: none;
+
+}
+
+.para {
+  margin-left: 100px;
+  margin-right: 100px;
+  text-indent: 50px;
+  word-spacing: 2px;
+  font-size: 20px;
+  padding-top: 50px;
+  color: black;
+  text-shadow: 2px black;
+
+}
+
+.car {
+  text-align: center;
+  margin-top: 15px;
+  font-size: 50px;
+  text-shadow: 2px 2px 5px red;
+}
+
+.info {
+  padding-top: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-indent: 50px;
+  font-size: 20px;
+  word-spacing: 2px;
+}
+
+.detail {
+  text-align: center;
+  font-size: 30px;
+  color: grey;
+  padding-top: 15px;
+  text-shadow: 2px 2px 5px grey;
+
+
+
+}
+
+ul,
+li {
+  display: inline;
+  text-decoration: none;
+  justify-content: space-between;
+  margin-left: 35px;
+  margin-top: 40px;
+  padding: 30px;
+
+
+}
+
+ul {
+  display: inline;
+  /* background-color: black;
+  opacity: 0.6; */
+}
+
+.footer1 {
+  padding: 30px;
+  text-decoration: none;
+  background-color: black;
+  opacity: 0.6;
+
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+
+}
+
+.final {
+  color: red;
+  text-align: center;
+  padding-top: 30px;
+
+}
+
+
+
+
+.link:hover {
+  color: red;
+}

@@ -1,0 +1,98 @@
+body {
+    margin: 0px;
+    padding: 0px;
+
+    background-color: rgb(34, 193, 195);
+    background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(121, 32, 153, 1) 86%);
+
+
+
+}
+
+.div {
+    text-align: center;
+    justify-content: center;
+    width: 1000px;
+    height: 883px;
+    background-color: white;
+    margin-left: 250px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    border-radius: 5px;
+    border: 5px solid black;
+
+}
+
+.main {
+    margin: 0px;
+    padding: 25px;
+    font-size: 50px;
+    text-shadow: 2px 2px 2px black;
+    color: white;
+    background-color: grey;
+    opacity: 0.6;
+
+}
+
+.top {
+    padding-top: 10px;
+    font-size: 40px;
+    text-shadow: 2px 2px 2px red;
+    color: black;
+
+}
+
+.top1 {
+    font-size: 30px;
+    color: black;
+    text-shadow: 2px 2px 2px black;
+
+}
+
+.para {
+
+    text-indent: 50px;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    word-spacing: 2px;
+    color: black;
+}
+
+.para1 {
+    text-indent: 50px;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    word-spacing: 2px;
+    color: black;
+
+}
+
+.anchor {
+    padding: 21px;
+    text-decoration: none;
+    /* color: white; */
+    font-size: 30px;
+
+    color: blue;
+    text-shadow: 2px 2px white;
+
+    display: inline;
+}
+
+.data {
+    border: 2px solid black;
+    border-radius: 5px;
+
+}
+
+.top3 {
+    background-color: grey;
+    opacity: 0.6;
+    padding: 21px;
+}
+
+.anchor:hover {
+    color: red;
+}
